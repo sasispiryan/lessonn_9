@@ -1,0 +1,6 @@
+git init - proekt@ kcum enq gitin 
+git config user.name- veradarcnum e username@
+git config --global user.name  "username"
+git config user.email
+git config --global user.email "email"
+clear maqrum e bolor koder@
